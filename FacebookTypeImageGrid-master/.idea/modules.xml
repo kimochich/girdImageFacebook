@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Facebook-Type-ImageGrid.iml" filepath="$PROJECT_DIR$/Facebook-Type-ImageGrid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FacebookTypeImageGrid.iml" filepath="$PROJECT_DIR$/FacebookTypeImageGrid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FacebookTypeImageGrid-master.iml" filepath="$PROJECT_DIR$/FacebookTypeImageGrid-master.iml" group="FacebookTypeImageGrid-master" />
+      <module fileurl="file://$PROJECT_DIR$/app/FacebookTypeImageGrid-master-app.iml" filepath="$PROJECT_DIR$/app/FacebookTypeImageGrid-master-app.iml" group="FacebookTypeImageGrid-master/app" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
